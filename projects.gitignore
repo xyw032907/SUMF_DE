@@ -1,0 +1,7 @@
+# References and unnecessary notes
+*.docx
+RWMF/Python/testdata/sreen_outputs/
+RWMF/Python/testdata/archive_mat_data/
+
+# Logs
+*.log
